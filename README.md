@@ -1,5 +1,6 @@
 # PaginaPalmira
 #Crear un login capaz de verificar usuario y contrase;a con una DB, estare usando por primera vez AstroDB
+<<<<<<< HEAD
 
 # Astro Starter Kit: Basics
 
@@ -55,3 +56,5 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+=======
+>>>>>>> 96a14e4d572235c182a7e00baf75b033e7044b60
